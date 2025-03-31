@@ -1,4 +1,5 @@
 public class Pravokutnik extends GeometrijskiLik {
+
     public Pravokutnik(String naziv, double stranicaA, double stranicaB) {
         super(naziv);
         this.stranicaA = stranicaA;

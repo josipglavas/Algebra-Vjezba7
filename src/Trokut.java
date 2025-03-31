@@ -1,5 +1,4 @@
 public class Trokut extends GeometrijskiLik {
-
     private double stranicaA;
     private double stranicaB;
     private double stranicaC;

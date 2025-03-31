@@ -1,5 +1,4 @@
 public class Krug extends GeometrijskiLik {
-
     private double radius;
 
     public Krug(String naziv, double radius) {
