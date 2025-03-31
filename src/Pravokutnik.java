@@ -31,6 +31,6 @@ public class Pravokutnik extends GeometrijskiLik {
 
     @Override
     public double opseg() {
-        return 2*(stranicaA + stranicaB);
+        return 2 * (stranicaA + stranicaB);
     }
 }
