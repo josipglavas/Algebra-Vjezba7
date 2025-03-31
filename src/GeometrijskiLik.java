@@ -1,5 +1,4 @@
 public abstract class GeometrijskiLik {
-
     private String naziv;
     public abstract double povrsina();
     public abstract double opseg();
